@@ -77,7 +77,7 @@ The common Python libraries required are:
 You can install these using pip:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
-
+```
 Installation & Usage
 Clone the repository:
 git clone https://github.com/palkingshuk/ML.git
